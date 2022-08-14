@@ -1,0 +1,10 @@
+.navbar{
+    border-bottom: solid  5px #1ca7e3;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(#4d4b4b65,#36343465),url(../images/images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 150px;
+}
